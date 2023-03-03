@@ -122,7 +122,7 @@ body{
 .banner{
     position:relative;
     height: 670px;
-    background-image: url("./image/banner.PNG");
+    background-image: url("image/banner.PNG");
     background-size: 100% 100%;
     filter: brightness(0.99);
 }
